@@ -87,5 +87,57 @@ margin-top: 5%;
 .fa-star.filled{
    color: #FB8200;
 }
-
+.see-more{
+    float: right;
+    color: orangered;  
+}
+.third-header{
+    text-align: center;
+}
+.overflow{
+    width: 300px;
+    height: 300px;
+    border: 1px solid green;
+    overflow: scroll;
+    
+}
+.container3{
+    display: flex;
+    grid-gap: 70px;
+    
+}
+.join{
+    border: 2px solid orangered;
+    background-color: orangered;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+footer{
+    background-color: #16033a;
+    padding: 20px;
+}
+.font{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+.p-tag{
+    font-weight: bold;
+    font-size: 14px;
+    color: white;
+    text-align: center;
+}
+.margin{
+    margin-top: 5px;
+}
+.icon{
+    text-align: center;
+   color: white;
+}
+.space{
+    padding: 10px;
+}
 
